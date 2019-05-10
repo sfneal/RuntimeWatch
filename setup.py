@@ -22,10 +22,10 @@ def get_version(source):
 
 
 setup(
-    name='TaskTracker',
-    version=get_version('TaskTracker'),
+    name='RuntimeTracker',
+    version=get_version('RuntimeTracker'),
     packages=find_packages(),
-    url='https://github.com/mrstephenneal/TaskTracker',
+    url='https://github.com/mrstephenneal/RuntimeTracker',
     license='',
     author='Stephen Neal',
     author_email='stephen@stephenneal.net',
