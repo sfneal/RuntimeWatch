@@ -22,10 +22,10 @@ def get_version(source):
 
 
 setup(
-    name='RuntimeTracker',
-    version=get_version('RuntimeTracker'),
+    name='RuntimeWatch',
+    version=get_version('RuntimeWatch'),
     packages=find_packages(),
-    url='https://github.com/mrstephenneal/RuntimeTracker',
+    url='https://github.com/mrstephenneal/RuntimeWatch',
     license='',
     author='Stephen Neal',
     author_email='stephen@stephenneal.net',
