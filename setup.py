@@ -25,6 +25,9 @@ setup(
     name='RuntimeWatch',
     version=get_version('RuntimeWatch'),
     packages=find_packages(),
+    install_requires=[
+        'databasetools',
+    ],
     url='https://github.com/mrstephenneal/RuntimeWatch',
     license='',
     author='Stephen Neal',
