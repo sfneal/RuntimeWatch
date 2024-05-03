@@ -5,4 +5,4 @@ looptools==1.2.0
 mysql-connector==2.2.9
 mysql-toolkit==1.9.1
 sqlparse==0.5.0
-tqdm==4.31.1
+tqdm==4.66.3
